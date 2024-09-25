@@ -4,19 +4,19 @@
     "url": "https://rahulmishra.tech",
     "icon": "https://icons.duckduckgo.com/ip3/rahulmishra.tech.ico",
     "slug": "rahulmishra",
-    "status": "down",
-    "uptime": "78.93%",
-    "uptimeDay": "78.93%",
-    "uptimeWeek": "78.93%",
-    "uptimeMonth": "78.93%",
-    "uptimeYear": "78.93%",
-    "time": 1993,
-    "timeDay": 1993,
-    "timeWeek": 1993,
-    "timeMonth": 1993,
-    "timeYear": 1993,
+    "status": "up",
+    "uptime": "68.66%",
+    "uptimeDay": "68.66%",
+    "uptimeWeek": "68.66%",
+    "uptimeMonth": "68.66%",
+    "uptimeYear": "68.66%",
+    "time": 1648,
+    "timeDay": 1648,
+    "timeWeek": 1648,
+    "timeMonth": 1648,
+    "timeYear": 1648,
     "dailyMinutesDown": {
-      "2024-09-25": 18
+      "2024-09-25": 31
     }
   }
 ]
