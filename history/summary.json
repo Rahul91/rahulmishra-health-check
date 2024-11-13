@@ -4,9 +4,9 @@
     "url": "https://rahulmishra.tech",
     "icon": "https://icons.duckduckgo.com/ip3/rahulmishra.tech.ico",
     "slug": "rahulmishra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 1378,
     "timeYear": 1371,
     "dailyMinutesDown": {
+      "2024-11-13": 0,
       "2024-10-17": 103,
       "2024-10-10": 29,
       "2024-09-25": 18
